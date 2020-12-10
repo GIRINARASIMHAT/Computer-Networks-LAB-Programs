@@ -2,7 +2,7 @@
 
 ## Part - B Programs
 
-Program 1: [`Error Detection using CRC16CCITT`](https://github.com/GIRINARASIMHAT/CRC16CCITT-Error-Detection-) 
+Program 1 : [`Error Detection using CRC16CCITT`](https://github.com/GIRINARASIMHAT/CRC16CCITT-Error-Detection-) 
 
 Program 2 : [`Congestion control using Leaky bucket algorithm`](https://github.com/GIRINARASIMHAT/Leaky-bucket-algorithm--Congestion-control)
 
